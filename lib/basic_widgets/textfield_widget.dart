@@ -9,7 +9,7 @@ class TextfieldWidget extends StatelessWidget {
       obscureText: false,
       decoration: InputDecoration(
         border: OutlineInputBorder(),
-        labelText: 'Nama iqbal',
+        labelText: 'isi text',
       ),
     );
   }

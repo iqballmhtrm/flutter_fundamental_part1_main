@@ -4,11 +4,11 @@ A new Flutter project.
 
 # Praktikum 1 - Buat projek
 
-![alt text][D:\semester 5\flutter_fundamental_part1_main\images\image.png]
+![alt text](images/image.png)
 
 # Praktikum 2 - Jalankan di Perangkat fisik
 
-![alt text](images\fisik.mp4)
+![alt text](images/fisik.gif)
 saya menggunakan scrcpy untuk menampilkan di laptop kemudian menggunakan wireless debugging
 
 # Praktikum 4 - Terapkan widget dasar
@@ -23,18 +23,18 @@ Menampilkan gambar menggunakan AssetImage, gambar di daftarkan terlebih dahulu p
 
 # Praktikum 5 - Terapkan Cupercino Button dan Loading Bar
 
-![alt text](images/image-3.png)
+![alt text](images/image-2.png)
 Menampilkan CupertinoButton() yaitu Sebuah tombol dengan teks "Contoh button". Ketika ditekan, tidak ada aksi karena fungsi onPressed kosong dan
 CupertinoActivityIndicator() yaitu Sebuah indikator aktivitas (seperti loading spinner) yang terus berputar
 
 # Praktikum 5 - FAB
 
-![alt text](images/image-4.png)
+![alt text](images/image-fab.png)
 Membuat sebuah floating action button dengan floatingActionButton: FloatingActionButton() {}
 
 # Praktikum 5 - Scaffold
 
-![alt text](images/image-5.png)
+![alt text](images/image-scn.png)
 Digunakan Scaffold untuk menampilkan bilah aplikasi (appBar), konten utama (body), bilah navigasi bawah (bottomNavigationBar), dan tombol aksi mengambang (floatingActionButton) yang terletak di tengah bawah. Scaffold memudahkan pengaturan tata letak aplikasi dengan elemen-elemen umum seperti ini.
 
 # Praktikum 5 - Alert
@@ -49,7 +49,7 @@ Menampilkan TextField dengan teks label "Nama" dan batas berbentuk garis (Outlin
 
 # Praktikum 5 - Date Time
 
-![alt text](images/dateTime.gif)
+![alt text](images/date.gif)
 Menampilkan tombol "Pilih Tanggal" yang, saat ditekan, memunculkan DatePicker. Pengguna dapat memilih tanggal antara tahun 2015 hingga 2101. Setelah dipilih, tanggal disimpan dalam variabel selectedDate dan ditampilkan di layar
 
 # TUGAS
@@ -57,10 +57,7 @@ Menampilkan tombol "Pilih Tanggal" yang, saat ditekan, memunculkan DatePicker. P
 Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!
 
 - Pada Emulator
-  <img src="images/tugas-2.gif" alt="Alt Text" width="50%" height="50%">
+  <img src="images/emolator.gif" alt="Alt Text" width="50%" height="50%">
 
 - Device Fisik
   ![alt text](images/fisik.gif)
-
-
-[D:\semester 5\flutter_fundamental_part1_main\images\image.png]: images/image.png
